@@ -6,10 +6,11 @@ This is a Power BI portfolio project and the goal of this project is to develop 
 
 ## **Features**
 
-This dashboard offers a comprehensive view of student performance through various key metrics. It tracks overall student performance which includes a breakdown of students by grade, enrollment trends, and preferred payment methods, offering a complete academic and administrative overview.
+This dashboard offers a comprehensive view of student performance through various key metrics. It tracks overall student performance which includes a breakdown of students by grade, enrollment trends, country and preferred payment methods, offering a complete academic and administrative overview.
 
 ## **Technologies Used**
 Power Bi
+
 DAX 
 
 ![image alt](https://github.com/Sofiya-Banmala/Power-BI-Portfolio-Projects/blob/main/Student%20dashboard%20image.JPG)
