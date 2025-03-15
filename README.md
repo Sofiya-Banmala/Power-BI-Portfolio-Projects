@@ -6,10 +6,6 @@ This is a **Power BI dashboard** designed to analyze and visualize student perfo
 ## Dashboard Preview  
 ![image alt](https://github.com/Sofiya-Banmala/Power-BI-Portfolio-Projects/blob/main/Images/studentdash.JPG)
 
-## Demo Video  
-[![Watch the Video](your-thumbnail-image-link)](your-video-link)  
-*(Replace with your actual video link, e.g., YouTube or Google Drive)*  
-
 ## Features  
 - **Student Breakdown by Grade** – Shows the distribution of students across different grades (A, B, C).  
 - **Student Enrollment Trends** – Displays how student enrollment has changed over the years.  
@@ -23,17 +19,13 @@ This is a **Power BI dashboard** designed to analyze and visualize student perfo
 - **DAX (Data Analysis Expressions)** – Used for calculations and data modeling in Power BI.  
 - **Power Query** – Used for transforming and structuring data.  
 
-## Dataset Information  
-The dataset contains the following details:  
-- **Student ID**  
-- **Student Country**  
-- **Subjects** (Arts, Commerce, Engineering, Science)  
-- **Grades** (A, B, C)  
-- **Enrollment Date**  
-- **Payment Method**  
-
 ## Insights from the Data  
 - Most students received **Grade A (40%)**, followed by **Grade B (38%)** and **Grade C (21%)**.  
 - Student enrollment was **highest in 2020** but saw a decline in later years.  
 - Payment methods are **evenly distributed**, meaning students use multiple options to pay their fees.  
 - Student enrollment varies **by country and subject**, showing different educational interests.  
+
+## Conclusion  
+This **Student Performance Dashboard** provides valuable insights into student grades, enrollment trends, and payment methods. By using **Power BI**, we can visualize complex data in an easy-to-understand format, helping educators and administrators make informed decisions. The dashboard is flexible and can be enhanced with additional data, predictive analytics, and new visualizations in the future.  
+
+Understanding student performance trends is essential for improving education strategies, optimizing resource allocation, and identifying areas for student improvement. This project demonstrates how **data visualization** can transform raw data into meaningful insights.  
