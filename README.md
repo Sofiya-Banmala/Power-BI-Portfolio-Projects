@@ -20,12 +20,6 @@ This is a **Power BI dashboard** designed to analyze and visualize student perfo
 - **DAX (Data Analysis Expressions)** – Used for calculations and data modeling in Power BI.  
 - **Power Query** – Used for transforming and structuring data.  
 
-## Insights from the Data  
-- Most students received **Grade A (40%)**, followed by **Grade B (38%)** and **Grade C (21%)**.  
-- Student enrollment was **highest in 2020** but saw a decline in later years.  
-- Payment methods are **evenly distributed**, meaning students use multiple options to pay their fees.  
-- Student enrollment varies **by country and subject**, showing different educational interests.
-
 ## **2. Intermediate Level**
 ![image alt](https://github.com/Sofiya-Banmala/Power-BI-Portfolio-Projects/blob/main/Images/Intermediate%20level%20dash.JPG)
 
