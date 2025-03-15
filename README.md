@@ -4,8 +4,7 @@
 This is a **Power BI dashboard** designed to analyze and visualize student performance data. It provides insights into student grades, enrollment trends, and payment methods. The goal of this project is to help educators and administrators understand student performance patterns and make data-driven decisions.  
 
 ## Dashboard Preview  
-![Dashboard Screenshot](your-image-link-here)  
-*(Replace the link above with the actual image URL from your repository)*  
+![image alt](https://github.com/Sofiya-Banmala/Power-BI-Portfolio-Projects/blob/main/Images/studentdash.JPG)
 
 ## Demo Video  
 [![Watch the Video](your-thumbnail-image-link)](your-video-link)  
