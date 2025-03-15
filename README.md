@@ -4,6 +4,7 @@
 This is a **Power BI dashboard** designed to analyze and visualize student performance data. It provides insights into student grades, enrollment trends, and payment methods. The goal of this project is to help educators and administrators understand student performance patterns and make data-driven decisions.  
 
 ## Dashboard Preview  
+## **1. Basic Level**
 ![image alt](https://github.com/Sofiya-Banmala/Power-BI-Portfolio-Projects/blob/main/Images/studentdash.JPG)
 
 ## Features  
@@ -23,7 +24,10 @@ This is a **Power BI dashboard** designed to analyze and visualize student perfo
 - Most students received **Grade A (40%)**, followed by **Grade B (38%)** and **Grade C (21%)**.  
 - Student enrollment was **highest in 2020** but saw a decline in later years.  
 - Payment methods are **evenly distributed**, meaning students use multiple options to pay their fees.  
-- Student enrollment varies **by country and subject**, showing different educational interests.  
+- Student enrollment varies **by country and subject**, showing different educational interests.
+
+## **2. Intermediate Level**
+![image alt](https://github.com/Sofiya-Banmala/Power-BI-Portfolio-Projects/blob/main/Images/Intermediate%20level%20dash.JPG)
 
 ## Conclusion  
 This **Student Performance Dashboard** provides valuable insights into student grades, enrollment trends, and payment methods. By using **Power BI**, we can visualize complex data in an easy-to-understand format, helping educators and administrators make informed decisions. The dashboard is flexible and can be enhanced with additional data, predictive analytics, and new visualizations in the future.  
