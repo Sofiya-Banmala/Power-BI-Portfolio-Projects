@@ -3,7 +3,7 @@
 ## **Project Overview**  
 This project features a **Power BI dashboard** designed to analyze, track, and visualize student performance data. It provides in-depth insights into student grades, enrollment trends, subject distribution, and payment methods. The goal of this dashboard is to help **educators, administrators, and decision-makers** identify trends, optimize educational strategies, and improve student outcomes based on data-driven insights.  
 
-With **interactive visualizations**, users can explore various dimensions of student performance, including **academic achievements, enrollment patterns, financial transactions, and subject-wise distribution** across different countries. The dashboard is structured into **two levels**—**Basic Level** and **Intermediate Level**—each offering unique insights and advanced analytics.  
+With **interactive visualizations**, users can explore various dimensions of student performance, including **academic achievements, enrollment patterns, financial transactions, and subject-wise distribution** across different countries. The dashboard is structured into **two levels**—**Basic Level** and **Intermediate Level**, each offering unique insights and advanced analytics.  
 
 ## **Dashboard Preview**  
 
@@ -60,11 +60,11 @@ With **interactive visualizations**, users can explore various dimensions of stu
   - Assists in financial planning and understanding fee collection trends.  
 
 - **Enrollment Date Breakdown**  
-  - A **time-series graph** showing student enrollment trends over time.  
+  - A **line chart** showing time series graph of student enrollment trends over time.  
   - Highlights peak enrollment periods and predicts future trends.  
 
 - **Subject-Wise Enrollment Across Countries**  
-  - A **heatmap table** representing subject-wise student enrollment in various countries.  
+  - A **matrix** representing subject-wise student enrollment in various countries.  
   - Darker shades indicate **higher enrollments**, helping institutions identify subject demand by region.  
 
 ## **Key Benefits of the Dashboard**  
